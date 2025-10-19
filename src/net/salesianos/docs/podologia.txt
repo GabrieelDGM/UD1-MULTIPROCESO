@@ -1,0 +1,6 @@
+Nombre;Apellidos;DNI
+Carlos;Navas Romero;45678901G
+Elena;Cano Martín;56789012H
+Iván;Pérez León;67890123J
+Nuria;Castro Vega;78901234K
+Sergio;Ramos Paredes;89012345L

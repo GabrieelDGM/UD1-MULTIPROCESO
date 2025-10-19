@@ -1,0 +1,8 @@
+Nombre;Apellidos;DNI
+Ana;López García;11223344K
+David;Santos Ruiz;22334455L
+Marta;Herrera Díaz;33445566M
+Francisco;Gil Navarro;44556677N
+Beatriz;Torres Martín;55667788P
+Carmen;Vega Núñez;66778899Q
+Pedro;Romero Salas;77889900R

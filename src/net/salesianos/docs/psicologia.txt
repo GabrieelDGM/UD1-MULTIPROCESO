@@ -1,0 +1,7 @@
+Nombre;Apellidos;DNI
+María;Fernández López;98765432D
+Jorge;Serrano Díaz;87654321E
+Lucía;Morales Cano;76543210F
+Raúl;Crespo Vidal;65432109G
+Elena;Ramírez Soto;54321098H
+Sofía;Castillo Peña;43210987J

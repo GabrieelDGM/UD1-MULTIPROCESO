@@ -1,0 +1,9 @@
+Nombre;Apellidos;DNI
+Laura;Gómez Sánchez;12345678A
+Pablo;Ruiz Torres;23456789B
+Andrea;Martín Pérez;34567890C
+Miguel;López Herrera;45678901D
+Sandra;Jiménez Ortega;56789012E
+Javier;Moreno García;67890123F
+Natalia;Domínguez León;78901234G
+Luis;Carrillo Torres;89012345H
