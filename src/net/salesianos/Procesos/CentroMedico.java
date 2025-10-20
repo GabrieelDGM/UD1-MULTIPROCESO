@@ -20,6 +20,7 @@ public class CentroMedico {
         for (String especialidad : ESPECIALIDADES) {
 
             // Construimos la ruta completa del archivo (por ejemplo: src/net/salesianos/docs/cardiologia.txt)
+            //Aqui coloque al final un txt porque es para que lea todo los archivos que terminan en txt pero si colocamos un ruta en espeficiar pues va a leer solo ese archivo
             String ruta = DATOS_PACIENTES + especialidad + ".txt";
 
             // Llamamos al método que cuenta los pacientes
