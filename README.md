@@ -11,3 +11,8 @@ El programa lo que hacer es lee ficheros de texto = .txt, cada uno por especiali
 Un centro medico necesita saber cuantos pacientes tienen asginados para cada especialidad y asi organizar a los medicos y especialistas para su disponibilidad.
 
 Con esta aplicacion el centro medico ahorra tiempo y evitar errores.
+
+# Funcionamiento de mi programa
+![Estructura del programa](image/Estructura.png)
+Mi programa creer una estrucutra muy comoda para poder trabaja en ella, docs es todo estan todos los ficheros, CentroMedico.java es donde esta todo el codigo y App.java es donde se ejecuta la aplicacion.
+
