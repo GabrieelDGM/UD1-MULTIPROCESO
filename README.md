@@ -26,3 +26,6 @@ Aqui lo que hace es ejecutar el programa directamente.
 
 2.- La segunda salida es entrando a la clase App.java, y ejecuta directamente desde ahi, el resultado seria el mismo.
 ![Salida del programa](image/salidaApp.png)
+
+👨‍💻 Autor
+Gabriel David Gelviz Monterrey
