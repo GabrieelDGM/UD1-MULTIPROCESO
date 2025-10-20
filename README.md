@@ -13,8 +13,9 @@ Un centro medico necesita saber cuantos pacientes tienen asginados para cada esp
 Con esta aplicacion el centro medico ahorra tiempo y evitar errores.
 
 # Funcionamiento de mi programa
-![Estructura del programa](image/Estructura.png)
 Mi programa creer una estrucutra muy comoda para poder trabaja en ella, docs es todo estan todos los ficheros, CentroMedico.java es donde esta todo el codigo y App.java es donde se ejecuta la aplicacion.
+![Estructura del programa](./docs/images/Estructura.png)
+
 
 
 # Manual de usuario
